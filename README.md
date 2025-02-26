@@ -1,2 +1,2 @@
 # Harvard-CS50-AI
-Projects I made in CS50's Introduction to Artifi cial Intelligence with Python.
+An AI to predict whether online shopping customers will complete a purchase.
