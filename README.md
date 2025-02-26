@@ -1,2 +1,2 @@
 # Harvard-CS50-AI
-Projects I made in CS50's Introduction to Artifi cial Intelligence with Python.
+An AI that teaches itself to play Nim through reinforcement learning.
