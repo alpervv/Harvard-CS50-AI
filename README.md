@@ -1,2 +1,2 @@
 # Harvard-CS50-AI
-Projects I made in CS50's Introduction to Artifi cial Intelligence with Python.
+An AI to assess the likelihood that a person will have a particular genetic trait.
