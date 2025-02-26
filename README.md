@@ -1,5 +1,5 @@
 # Harvard-CS50-AI
-An AI to identify which traffic sign appears in a photograph.
+An AI to identify which traffic sign appears in a photograph. The data set used to train the model in this project is here: https://cdn.cs50.net/ai/2023/x/projects/5/gtsrb.zip
 
 I used a convolutional neural network. My network tests 32 different convolutions and uses 2*2 pooling. I didn’t modify these parameters. My output layer consisted of NUM_CATEGORIES neurons with activation function “softmax”. For optimizer I tired “SGD” and “adams” but decided that “adams” was a better one and sticked with it. For loss function I used “categorial_crosentropy”.
 
